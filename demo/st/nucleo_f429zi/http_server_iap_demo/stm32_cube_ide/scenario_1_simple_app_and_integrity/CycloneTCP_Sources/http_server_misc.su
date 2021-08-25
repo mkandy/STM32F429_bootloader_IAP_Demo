@@ -1,0 +1,17 @@
+http_server_misc.c:84:9:httpReadRequestHeader	48	static
+http_server_misc.c:201:9:httpParseRequestLine	32	static
+http_server_misc.c:318:9:httpReadHeaderField	48	static
+http_server_misc.c:420:6:httpParseHeaderField	24	static
+http_server_misc.c:500:6:httpParseConnectionField	24	static
+http_server_misc.c:546:6:httpParseContentTypeField	16	static
+http_server_misc.c:615:6:httpParseAcceptEncodingField	16	static
+http_server_misc.c:651:6:httpParseCookieField	16	static
+http_server_misc.c:665:9:httpReadChunkSize	48	static
+http_server_misc.c:746:6:httpInitResponseHeader	16	static
+http_server_misc.c:779:9:httpFormatResponseHeader	32	static
+http_server_misc.c:948:9:httpSend	40	static
+http_server_misc.c:996:9:httpReceive	40	static
+http_server_misc.c:1078:6:httpGetAbsolutePath	24	static
+http_server_misc.c:1099:8:httpCompExtension	24	static
+http_server_misc.c:1129:9:httpDecodePercentEncodedString	32	static
+http_server_misc.c:1188:6:httpConvertArrayToHexString	32	static

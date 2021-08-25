@@ -1,0 +1,2 @@
+http_server_callbacks.c:61:9:httpServerRequestCallback	168	static
+http_server_callbacks.c:319:9:httpServerUriNotFoundCallback	16	static

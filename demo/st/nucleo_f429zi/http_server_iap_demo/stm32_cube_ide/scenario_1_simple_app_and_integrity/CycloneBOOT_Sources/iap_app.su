@@ -1,0 +1,10 @@
+iap_app.c:65:6:iapGetDefaultSettings	16	static
+iap_app.c:104:9:iapInit	24	static
+iap_app.c:195:9:iapUpdate	40	static
+iap_app.c:361:9:iapFinalize	24	static
+iap_app.c:425:9:iapReboot	16	static
+iap_app.c:462:9:iapProcessAppHeader	32	static
+iap_app.c:518:9:iapProcessAppCipherIv	16	static
+iap_app.c:568:9:iapProcessAppData	24	static
+iap_app.c:688:9:iapProcessAppCheck	16	static
+iap_app.c:738:9:iapFlashWrite	40	static

@@ -1,0 +1,5 @@
+tls13_client.c:68:9:tls13SendEndOfEarlyData	16	static
+tls13_client.c:129:9:tls13FormatEndOfEarlyData	24	static
+tls13_client.c:153:9:tls13ParseHelloRetryRequest	120	static
+tls13_client.c:419:9:tls13ParseEncryptedExtensions	104	static
+tls13_client.c:597:9:tls13ParseNewSessionTicket	144	static

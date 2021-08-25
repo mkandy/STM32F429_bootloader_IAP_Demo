@@ -1,0 +1,3 @@
+tls13_common.c:58:9:tls13SendKeyUpdate	56	static
+tls13_common.c:146:9:tls13FormatKeyUpdate	24	static
+tls13_common.c:174:9:tls13ParseKeyUpdate	56	static

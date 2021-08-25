@@ -1,0 +1,10 @@
+pkcs8_key_parse.c:56:9:pkcs8ParsePrivateKeyInfo	64	static
+pkcs8_key_parse.c:185:9:pkcs8ParsePrivateKeyAlgo	56	static
+pkcs8_key_parse.c:296:9:pkcs8ParseRsaPrivateKey	56	static
+pkcs8_key_parse.c:492:9:pkcs8ParseDsaPrivateKey	56	static
+pkcs8_key_parse.c:633:9:pkcs8ParseEcPrivateKey	56	static
+pkcs8_key_parse.c:714:9:pkcs8ParseEddsaPrivateKey	56	static
+pkcs8_key_parse.c:742:9:pkcs8ImportRsaPrivateKey	32	static
+pkcs8_key_parse.c:878:9:pkcs8ImportDsaPrivateKey	24	static
+pkcs8_key_parse.c:963:9:pkcs8ImportEcPrivateKey	24	static
+pkcs8_key_parse.c:1014:9:pkcs8ImportEddsaPrivateKey	24	static

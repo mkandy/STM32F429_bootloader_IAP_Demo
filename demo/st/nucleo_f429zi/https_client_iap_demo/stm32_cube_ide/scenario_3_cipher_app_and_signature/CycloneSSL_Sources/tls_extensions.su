@@ -1,0 +1,4 @@
+tls_extensions.c:57:9:tlsParseHelloExtensions	112	static
+tls_extensions.c:679:9:tlsCheckHelloExtensions	24	static
+tls_extensions.c:995:9:tlsCheckDuplicateExtension	32	static
+tls_extensions.c:1045:8:tlsIsAlpnProtocolSupported	32	static

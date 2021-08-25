@@ -1,0 +1,10 @@
+tls_client.c:82:9:tlsSendClientHello	32	static
+tls_client.c:266:9:tlsSendClientKeyExchange	32	static
+tls_client.c:317:9:tlsFormatClientHello	64	static
+tls_client.c:760:9:tlsFormatClientKeyExchange	40	static
+tls_client.c:847:9:tlsParseHelloRequest	32	static
+tls_client.c:932:9:tlsParseServerHello	120	static
+tls_client.c:1330:9:tlsParseServerKeyExchange	56	static
+tls_client.c:1487:9:tlsParseCertificateRequest	160	static
+tls_client.c:1783:9:tlsParseServerHelloDone	24	static
+tls_client.c:1869:9:tlsParseNewSessionTicket	32	static

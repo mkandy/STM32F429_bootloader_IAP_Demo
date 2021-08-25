@@ -1,0 +1,5 @@
+http_server_auth.c:56:8:httpCheckPassword	32	static
+http_server_auth.c:198:6:httpParseAuthorizationField	24	static
+http_server_auth.c:400:8:httpAddAuthenticateField	24	static
+http_server_auth.c:491:9:httpGenerateNonce	24	static
+http_server_auth.c:579:9:httpVerifyNonce	24	static

@@ -1,0 +1,13 @@
+x509_crl_parse.c:54:9:x509ParseCrl	56	static
+x509_crl_parse.c:133:9:x509ParseTbsCertList	56	static
+x509_crl_parse.c:250:9:x509ParseCrlVersion	56	static
+x509_crl_parse.c:306:9:x509ParseRevokedCertificates	176	static
+x509_crl_parse.c:374:9:x509ParseRevokedCertificate	56	static
+x509_crl_parse.c:443:9:x509ParseCrlExtensions	80	static
+x509_crl_parse.c:574:9:x509ParseCrlNumber	56	static
+x509_crl_parse.c:616:9:x509ParseDeltaCrlIndicator	56	static
+x509_crl_parse.c:658:9:x509ParseIssuingDistrPoint	56	static
+x509_crl_parse.c:766:9:x509ParseCrlEntryExtensions	80	static
+x509_crl_parse.c:872:9:x509ParseReasonCode	56	static
+x509_crl_parse.c:918:9:x509ParseInvalidityDate	32	static
+x509_crl_parse.c:947:9:x509ParseCertificateIssuer	80	static

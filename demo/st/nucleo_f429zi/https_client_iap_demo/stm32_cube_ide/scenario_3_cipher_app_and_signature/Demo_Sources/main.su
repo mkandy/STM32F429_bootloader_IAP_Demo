@@ -1,0 +1,4 @@
+main.c:91:6:SystemClock_Config	88	static
+main.c:135:6:ledTask	24	static
+main.c:159:9:iapUserLoadKeys	16	static
+main.c:180:7:main	48	static

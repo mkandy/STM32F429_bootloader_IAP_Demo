@@ -1,0 +1,17 @@
+x509_key_parse.c:57:9:x509ParseSubjectPublicKeyInfo	64	static
+x509_key_parse.c:193:9:x509ParseAlgorithmIdentifier	56	static
+x509_key_parse.c:307:9:x509ParseRsaPublicKey	56	static
+x509_key_parse.c:375:9:x509ParseRsaPssParameters	56	static
+x509_key_parse.c:472:9:x509ParseRsaPssHashAlgo	56	static
+x509_key_parse.c:511:9:x509ParseRsaPssMaskGenAlgo	56	static
+x509_key_parse.c:561:9:x509ParseRsaPssMaskGenHashAlgo	56	static
+x509_key_parse.c:601:9:x509ParseRsaPssSaltLength	56	static
+x509_key_parse.c:634:9:x509ParseDsaPublicKey	56	static
+x509_key_parse.c:672:9:x509ParseDsaParameters	56	static
+x509_key_parse.c:760:9:x509ParseEcPublicKey	24	static
+x509_key_parse.c:787:9:x509ParseEcParameters	56	static
+x509_key_parse.c:820:9:x509ImportRsaPublicKey	32	static
+x509_key_parse.c:890:9:x509ImportDsaPublicKey	24	static
+x509_key_parse.c:975:9:x509ImportEcPublicKey	128	static
+x509_key_parse.c:1058:9:x509ImportEcParameters	24	static
+x509_key_parse.c:1094:9:x509ImportEddsaPublicKey	24	static

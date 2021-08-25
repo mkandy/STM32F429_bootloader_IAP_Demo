@@ -1,0 +1,11 @@
+stm32f4xx_flash_driver.c:98:9:flashInit	16	static
+stm32f4xx_flash_driver.c:132:9:flashGetStartAddr	16	static
+stm32f4xx_flash_driver.c:151:8:flashGetBankSize	4	static
+stm32f4xx_flash_driver.c:165:9:flashWriteByte	24	static
+stm32f4xx_flash_driver.c:191:9:flashWriteHalfWord	24	static
+stm32f4xx_flash_driver.c:217:9:flashWriteWord	64	static
+stm32f4xx_flash_driver.c:360:9:flashSwapBank	40	static
+stm32f4xx_flash_driver.c:474:6:systemReset	8	static
+stm32f4xx_flash_driver.c:492:9:flashGetSector	32	static
+stm32f4xx_flash_driver.c:527:9:flashGetCurrentBank	40	static
+stm32f4xx_flash_driver.c:613:6:HAL_FLASH_OperationErrorCallback	16	static

@@ -1,0 +1,6 @@
+ssi.c:67:9:ssiExecuteScript	56	static
+ssi.c:364:9:ssiProcessCommand	40	static
+ssi.c:422:9:ssiProcessIncludeCommand	64	static
+ssi.c:598:9:ssiProcessEchoCommand	40	static
+ssi.c:757:9:ssiProcessExecCommand	40	static
+ssi.c:831:9:ssiSearchTag	32	static

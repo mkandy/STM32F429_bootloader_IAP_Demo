@@ -1,0 +1,5 @@
+hmac.c:85:9:hmacCompute	32	static
+hmac.c:132:9:hmacInit	32	static
+hmac.c:193:6:hmacUpdate	32	static
+hmac.c:210:6:hmacFinal	24	static
+hmac.c:249:6:hmacFinalRaw	24	static

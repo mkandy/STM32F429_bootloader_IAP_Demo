@@ -1,0 +1,2 @@
+tls_client_fsm.c:58:9:tlsPerformClientHandshake	24	static
+tls_client_fsm.c:249:9:tlsParseServerHandshakeMessage	32	static

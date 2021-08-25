@@ -1,0 +1,8 @@
+lan8742_driver.c:60:9:lan8742Init	16	static
+lan8742_driver.c:122:6:lan8742Tick	24	static
+lan8742_driver.c:160:6:lan8742EnableIrq	16	static
+lan8742_driver.c:175:6:lan8742DisableIrq	16	static
+lan8742_driver.c:190:6:lan8742EventHandler	24	static
+lan8742_driver.c:266:6:lan8742WritePhyReg	24	static
+lan8742_driver.c:290:10:lan8742ReadPhyReg	24	static
+lan8742_driver.c:316:6:lan8742DumpPhyReg	24	static

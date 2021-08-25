@@ -1,0 +1,5 @@
+x509_common.c:170:8:x509IsSignAlgoSupported	24	static
+x509_common.c:238:8:x509IsHashAlgoSupported	24	static
+x509_common.c:337:9:x509GetSignHashAlgo	40	static
+x509_common.c:779:13:x509GetPublicKeyType	24	static
+x509_common.c:860:20:x509GetCurveInfo	24	static

@@ -1,0 +1,5 @@
+tls13_ticket.c:51:8:tls13IsTicketValid	24	static
+tls13_ticket.c:89:9:tls13SaveSessionTicket	24	static
+tls13_ticket.c:183:9:tls13RestoreSessionTicket	24	static
+tls13_ticket.c:298:9:tls13GenerateTicket	24	static
+tls13_ticket.c:368:9:tls13VerifyTicket	24	static

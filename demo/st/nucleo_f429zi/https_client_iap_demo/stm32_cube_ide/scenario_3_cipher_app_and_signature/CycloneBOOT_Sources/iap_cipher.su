@@ -1,0 +1,2 @@
+iap_cipher.c:46:9:iapCipherInit	24	static
+iap_cipher.c:84:9:iapCipherDecodeData	40	static

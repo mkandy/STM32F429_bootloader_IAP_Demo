@@ -1,0 +1,14 @@
+net_misc.c:121:9:netAttachLinkChangeCallback	32	static
+net_misc.c:159:9:netDetachLinkChangeCallback	32	static
+net_misc.c:192:6:netProcessLinkChange	32	static
+net_misc.c:338:9:netAttachTimerCallback	32	static
+net_misc.c:376:9:netDetachTimerCallback	24	static
+net_misc.c:407:6:netTick	16	static
+net_misc.c:742:6:netStartTimer	16	static
+net_misc.c:756:6:netStopTimer	16	static
+net_misc.c:769:8:netTimerRunning	16	static
+net_misc.c:782:8:netTimerExpired	24	static
+net_misc.c:811:6:netInitRand	32	static
+net_misc.c:867:10:netGetRand	16	static
+net_misc.c:893:9:netGetRandRange	24	static
+net_misc.c:920:10:netGetRandBit	24	static

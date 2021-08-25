@@ -1,0 +1,14 @@
+tls13_misc.c:88:9:tls13ComputePskBinder	160	static
+tls13_misc.c:258:9:tls13GenerateKeyShare	24	static
+tls13_misc.c:351:9:tls13GenerateSharedSecret	32	static
+tls13_misc.c:437:9:tls13GenerateSignature	176	static
+tls13_misc.c:707:9:tls13VerifySignature	72	static
+tls13_misc.c:969:9:tls13ComputeMac	72	static
+tls13_misc.c:1011:9:tls13DigestClientHello1	24	static
+tls13_misc.c:1056:8:tls13IsPskValid	24	static
+tls13_misc.c:1094:8:tls13IsGroupSupported	24	static
+tls13_misc.c:1127:8:tls13IsEcdheGroupSupported	24	static
+tls13_misc.c:1165:8:tls13IsFfdheGroupSupported	24	static
+tls13_misc.c:1203:9:tls13CheckDuplicateKeyShare	32	static
+tls13_misc.c:1249:9:tls13FormatCertExtensions	24	static
+tls13_misc.c:1277:9:tls13ParseCertExtensions	112	static

@@ -1,0 +1,12 @@
+syscalls.c:23:5:_write	32	static
+syscalls.c:41:5:_read	24	static
+syscalls.c:46:16:_sbrk	24	static
+syscalls.c:67:12:link	16	static
+syscalls.c:72:12:_close	16	static
+syscalls.c:77:12:_fstat	16	static
+syscalls.c:83:12:_isatty	16	static
+syscalls.c:88:12:_lseek	24	static
+syscalls.c:93:13:_exit	16	static
+syscalls.c:98:13:_kill	16	static
+syscalls.c:103:12:_getpid	4	static
+syscalls.c:108:5:AllowPLLInitByStartup	4	static

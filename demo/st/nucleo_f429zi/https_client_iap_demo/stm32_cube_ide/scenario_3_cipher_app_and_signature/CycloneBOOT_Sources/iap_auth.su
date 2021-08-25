@@ -1,0 +1,3 @@
+iap_auth.c:47:9:iapAuthInit	16	static
+iap_auth.c:103:9:iapAuthUpdateTag	24	static
+iap_auth.c:150:9:iapAuthFinalizeTag	16	static

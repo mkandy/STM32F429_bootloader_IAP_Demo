@@ -1,0 +1,6 @@
+tls13_key_material.c:62:9:tls13HkdfExpandLabel	56	static
+tls13_key_material.c:135:9:tls13DeriveSecret	96	static
+tls13_key_material.c:192:9:tls13GenerateEarlyTrafficKeys	48	static
+tls13_key_material.c:311:9:tls13GenerateHandshakeTrafficKeys	56	static
+tls13_key_material.c:510:9:tls13GenerateServerAppTrafficKeys	96	static
+tls13_key_material.c:691:9:tls13GenerateClientAppTrafficKeys	40	static

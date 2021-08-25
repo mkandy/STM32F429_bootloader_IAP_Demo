@@ -1,0 +1,6 @@
+sha1.c:102:9:sha1Compute	32	static
+sha1.c:142:6:sha1Init	16	static
+sha1.c:165:6:sha1Update	40	static
+sha1.c:204:6:sha1Final	32	static
+sha1.c:253:6:sha1FinalRaw	24	static
+sha1.c:279:6:sha1ProcessBlock	56	static

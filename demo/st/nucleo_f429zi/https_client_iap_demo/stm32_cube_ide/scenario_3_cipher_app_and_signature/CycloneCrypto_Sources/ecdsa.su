@@ -1,0 +1,9 @@
+ecdsa.c:74:9:ecdsaGenerateKeyPair	32	static
+ecdsa.c:103:9:ecdsaGeneratePrivateKey	32	static
+ecdsa.c:146:9:ecdsaGeneratePublicKey	32	static
+ecdsa.c:176:6:ecdsaInitSignature	16	static
+ecdsa.c:189:6:ecdsaFreeSignature	16	static
+ecdsa.c:205:9:ecdsaWriteSignature	72	static
+ecdsa.c:362:9:ecdsaReadSignature	56	static
+ecdsa.c:499:16:ecdsaGenerateSignature	96	static
+ecdsa.c:614:16:ecdsaVerifySignature	176	static

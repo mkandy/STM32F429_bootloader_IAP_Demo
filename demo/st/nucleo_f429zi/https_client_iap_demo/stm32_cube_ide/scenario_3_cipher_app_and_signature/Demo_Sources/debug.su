@@ -1,0 +1,3 @@
+debug.c:45:6:debugInit	48	static
+debug.c:90:6:debugDisplayArray	32	static
+stdio.h:214:5:fputc	24	static

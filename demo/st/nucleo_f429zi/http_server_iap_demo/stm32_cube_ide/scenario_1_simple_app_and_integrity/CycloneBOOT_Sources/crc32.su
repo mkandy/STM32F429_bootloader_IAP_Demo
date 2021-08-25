@@ -1,0 +1,4 @@
+crc32.c:134:9:crc32Compute	32	static
+crc32.c:161:6:crc32Init	16	static
+crc32.c:175:6:crc32Update	40	static
+crc32.c:205:6:crc32Final	16	static

@@ -1,0 +1,16 @@
+stm32f4xx_nucleo_144.c:177:10:BSP_GetVersion	4	static
+stm32f4xx_nucleo_144.c:190:6:BSP_LED_Init	48	static
+stm32f4xx_nucleo_144.c:216:6:BSP_LED_DeInit	40	static
+stm32f4xx_nucleo_144.c:233:6:BSP_LED_On	16	static
+stm32f4xx_nucleo_144.c:246:6:BSP_LED_Off	16	static
+stm32f4xx_nucleo_144.c:259:6:BSP_LED_Toggle	16	static
+stm32f4xx_nucleo_144.c:274:6:BSP_PB_Init	40	static
+stm32f4xx_nucleo_144.c:311:6:BSP_PB_DeInit	40	static
+stm32f4xx_nucleo_144.c:326:10:BSP_PB_GetState	16	static
+stm32f4xx_nucleo_144.c:692:13:ADCx_MspInit	48	static
+stm32f4xx_nucleo_144.c:715:13:ADCx_MspDeInit	40	static
+stm32f4xx_nucleo_144.c:734:13:ADCx_Init	8	static
+stm32f4xx_nucleo_144.c:758:13:ADCx_DeInit	8	static
+stm32f4xx_nucleo_144.c:773:9:BSP_JOY_Init	16	static
+stm32f4xx_nucleo_144.c:793:6:BSP_JOY_DeInit	8	static
+stm32f4xx_nucleo_144.c:810:18:BSP_JOY_GetState	16	static

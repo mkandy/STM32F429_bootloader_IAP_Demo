@@ -1,0 +1,4 @@
+tls_cipher_suites.c:1214:8:tlsGetNumSupportedCipherSuites	4	static
+tls_cipher_suites.c:1227:15:tlsGetCipherSuiteName	24	static
+tls_cipher_suites.c:1257:8:tlsIsCipherSuiteAcceptable	32	static
+tls_cipher_suites.c:1314:20:tlsGetCipherSuiteType	24	static

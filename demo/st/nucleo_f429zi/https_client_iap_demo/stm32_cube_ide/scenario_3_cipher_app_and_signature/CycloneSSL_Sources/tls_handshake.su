@@ -1,0 +1,5 @@
+tls_handshake.c:56:9:tlsInitHandshake	16	static
+tls_handshake.c:114:9:tlsPerformHandshake	24	static
+tls_handshake.c:156:9:tlsSendHandshakeMessage	32	static
+tls_handshake.c:246:9:tlsReceiveHandshakeMessage	32	static
+tls_handshake.c:338:9:tlsParseHandshakeMessage	40	static

@@ -1,0 +1,3 @@
+http_user.c:87:9:httpUserTlsInitCallback	24	static
+http_user.c:127:9:httpUserUpdate	184	static
+http_user.c:375:6:httpUserTask	16	static

@@ -1,0 +1,4 @@
+iap_check.c:50:9:iapCheckInit	24	static
+iap_check.c:118:9:iapCheckUpdateTag	32	static
+iap_check.c:176:9:iapCheckFinalizeTag	24	static
+iap_check.c:245:9:iapCheckVerify	32	static

@@ -1,0 +1,14 @@
+http_server.c:63:6:httpServerGetDefaultSettings	16	static
+http_server.c:110:9:httpServerInit	32	static
+http_server.c:208:9:httpServerStart	40	static
+http_server.c:250:6:httpListenerTask	80	static
+http_server.c:323:6:httpConnectionTask	32	static
+http_server.c:627:9:httpWriteHeader	32	static
+http_server.c:660:9:httpReadStream	48	static
+http_server.c:766:9:httpWriteStream	40	static
+http_server.c:831:9:httpCloseStream	24	static
+http_server.c:859:9:httpSendResponse	32	static
+http_server.c:1064:9:httpSendErrorResponse	48	static
+http_server.c:1130:9:httpSendRedirectResponse	40	static
+http_server.c:1195:8:httpCheckWebSocketHandshake	16	static
+http_server.c:1244:12:httpUpgradeToWebSocket	24	static

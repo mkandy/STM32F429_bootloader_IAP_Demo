@@ -1,0 +1,5 @@
+sha512.c:126:9:sha512Compute	32	static
+sha512.c:166:6:sha512Init	16	static
+sha512.c:192:6:sha512Update	40	static
+sha512.c:231:6:sha512Final	32	static
+sha512.c:279:6:sha512ProcessBlock	472	static

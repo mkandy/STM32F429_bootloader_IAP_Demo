@@ -1,0 +1,4 @@
+iap_sign.c:58:9:iapSignInit	48	static
+iap_sign.c:138:9:iapSignVerify	24	static
+iap_sign.c:201:9:iapSignVerifyRsa	64	static
+iap_sign.c:258:9:iapSignVerifyEcdsa	16	static

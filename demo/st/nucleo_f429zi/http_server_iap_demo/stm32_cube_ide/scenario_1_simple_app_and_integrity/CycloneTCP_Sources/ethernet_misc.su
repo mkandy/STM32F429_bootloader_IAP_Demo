@@ -1,0 +1,10 @@
+ethernet_misc.c:149:9:ethPadFrame	24	static
+ethernet_misc.c:192:9:ethEncodeVlanTag	32	static
+ethernet_misc.c:245:9:ethDecodeVlanTag	32	static
+ethernet_misc.c:281:9:ethCheckDestAddr	32	static
+ethernet_misc.c:340:6:ethUpdateInStats	16	static
+ethernet_misc.c:378:6:ethUpdateOutStats	24	static
+ethernet_misc.c:421:6:ethUpdateErrorStats	16	static
+ethernet_misc.c:459:10:ethCalcCrc	32	static
+ethernet_misc.c:519:10:ethCalcCrcEx	48	static
+ethernet_misc.c:592:9:ethCheckCrc	32	static

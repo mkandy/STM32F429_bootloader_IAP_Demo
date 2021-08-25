@@ -1,0 +1,2 @@
+x509_crl_validate.c:53:9:x509ValidateCrl	56	static
+x509_crl_validate.c:132:9:x509CheckRevokedCertificate	224	static

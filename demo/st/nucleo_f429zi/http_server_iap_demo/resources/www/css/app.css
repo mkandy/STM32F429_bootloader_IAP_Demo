@@ -1,0 +1,140 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    
+  }
+  
+  .component-orange {
+    background-color: orange;
+  }
+  .component-cyan {
+    background-color: cyan;
+  }
+  .component-magenta {
+    background-color: magenta;
+  }
+  .component-green {
+    background-color: green;
+  }
+  
+  .center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid burlywood;
+    padding: 10px;
+  }
+  
+  .header {
+    text-align: center;
+  }
+  
+  .buttons, .headers {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: space-between;
+    justify-content: center;
+    gap: 120px;
+  }
+  
+  .buttons {
+    margin-bottom: 20px;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .buttons input {
+    font-size: 1em;
+    gap: 100px;
+  }
+  
+  .headers h4 {
+    font-size: 1.5em;
+  }
+  
+  label {
+    display: block;
+  }
+  
+  .messageZone {
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 20px;
+  }
+  
+  .metadata {
+    padding: 10px;
+    background-color: white;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    font-size: 1.5em;
+  }
+  
+  #select, #submit, #reboot {
+    margin-left: 90px;
+    margin-right: 90px;
+  }
+  
+  .ghostButton {
+    color: #494949 !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #ffffff;
+    padding: 20px;
+    border: 4px solid #494949 !important;
+    display: inline-block;
+  }
+  
+  .ghostButton:disabled {
+    text-decoration: line-through;
+    background: darkgray;
+  }
+
+  .banner {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+  }
+
+  .banner img {
+    height: 80px;
+    margin-bottom: 10px;
+  }
+
+  #scenarioDesc {
+    background-color: #ffffff;
+    padding: 5px;
+  }
+
+  #fileName {
+    word-wrap: break-word;
+  }
+
+  .smallHeaders {
+    display: none;
+  }
+
+  @media screen and (min-width: 400px) and (max-width: 1200px) {
+    .buttons, .headers {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 90px;
+    }
+
+    h4 {
+      font-size: 1.5em;
+    }
+
+    .headers {
+      display: none;
+    }
+
+    .smallHeaders {
+      display: block;
+    }
+  }
